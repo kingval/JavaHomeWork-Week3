@@ -25,7 +25,7 @@ public class CalendarSwitchCase {
                 System.out.println("June");
                 break;
             case 7:
-                System.out.println("Jul");
+                System.out.println("July");
                 break;
             case 8:
                 System.out.println("August");
