@@ -11,13 +11,3 @@ public class WhileLoopHomeworkMultiplication9x {
         }
     }
 }
-
-
-/*
-        int i = 1;
-        int b = 2;
-
-        while (i <= 20) {
-            System.out.println(i +  ": is a Odd number");
-            i+= 2;
- */
